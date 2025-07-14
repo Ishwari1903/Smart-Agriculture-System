@@ -31,9 +31,7 @@ This is the frontend (UI) part of the **Smart Agriculture System** – an intell
 ## 🛠️ Tech Stack
 
 - **Framework**: React.js
-- **Styling**: Tailwind CSS
-- **Charts**: Recharts
-- **HTTP**: Axios
+- **Styling**: CSS,Bootstrap,Swipper
 - **State Management**: React Hooks
 
 ---
